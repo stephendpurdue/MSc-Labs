@@ -1,7 +1,7 @@
 Implement:
 
-- Lineaer Discriminant Analysis
-- KNN
+- Lineaer Discriminant Analysis - Done
+- KNN - 1/2 Done
 - Naive Bayes
 - Multinomial Logistic Regression
 
